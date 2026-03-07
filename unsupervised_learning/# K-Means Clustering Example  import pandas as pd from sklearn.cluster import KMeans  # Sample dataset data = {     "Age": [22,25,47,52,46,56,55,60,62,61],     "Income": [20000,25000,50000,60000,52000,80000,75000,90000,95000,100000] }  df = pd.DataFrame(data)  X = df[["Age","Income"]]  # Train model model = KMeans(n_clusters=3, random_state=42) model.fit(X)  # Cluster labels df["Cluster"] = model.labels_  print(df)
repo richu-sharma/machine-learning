@@ -1,0 +1,23 @@
+# K-Means Clustering
+
+## Overview
+
+K-Means is an unsupervised learning algorithm used to group data into **K clusters**.
+
+The algorithm works by:
+
+1. Choosing K cluster centers
+2. Assigning data points to nearest center
+3. Updating the cluster centers
+4. Repeating until clusters stabilize
+
+## Libraries Used
+
+* pandas
+* scikit-learn
+
+## Run
+
+pip install pandas scikit-learn
+
+python kmeans_clustering.py
