@@ -63,6 +63,16 @@ This project demonstrates **how different cross-validation techniques are applie
 - Large datasets requiring stable evaluation
 
 ---
+Quick Summary
+
+Imbalanced datasets → Stratified K-Fold
+Time-based datasets → TimeSeriesSplit
+General datasets → K-Fold
+Very small datasets → Leave-One-Out
+Need more stable results → Repeated K-Fold
+
 
 ⭐ This repository is part of my **Machine Learning learning portfolio**.
+
+
 
