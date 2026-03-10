@@ -51,4 +51,18 @@ Cross validation is used to evaluate models more reliably by testing them on mul
 
 ---
 
-## 📂 Project Structure
+---
+
+## 🎯 Purpose of this Project
+
+This project demonstrates **how different cross-validation techniques are applied to different types of machine learning problems**, such as:
+
+- Imbalanced datasets
+- Time-series data
+- Small datasets
+- Large datasets requiring stable evaluation
+
+---
+
+⭐ This repository is part of my **Machine Learning learning portfolio**.
+
