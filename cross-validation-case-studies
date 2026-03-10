@@ -1,1 +1,15 @@
-Machine Learning Cross Validation Case Studies including Stratified K-Fold, Time Series CV, K-Fold, Leave-One-Out, and Repeated K-Fold with Python examples.
+# Cross Validation Techniques in Machine Learning
+
+This folder contains real-life case studies demonstrating different cross-validation techniques.
+
+## Techniques Covered
+1. Stratified K-Fold – Cancer Detection
+2. Time Series Split – Stock Price Prediction
+3. K-Fold – Customer Churn Prediction
+4. Leave-One-Out – Rare Disease Research
+5. Repeated K-Fold – Image Classification
+
+## Tools Used
+Python
+Scikit-learn
+NumPy
