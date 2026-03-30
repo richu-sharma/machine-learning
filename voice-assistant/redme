@@ -1,1 +1,34 @@
 
+# 🎤 Voice Assistant using Python (Exercise)
+
+## 📌 Objective
+To develop a simple Voice Assistant application that can:
+- Convert speech into text
+- Convert text into speech
+- Display output using a graphical interface
+
+---
+
+## 🛠️ Tools & Technologies Used
+- Python
+- SpeechRecognition
+- pyttsx3
+- Tkinter
+
+---
+
+## ⚙️ Description
+
+This project is a basic implementation of a Voice Assistant using Python.
+
+The system performs the following steps:
+1. Takes voice input from the user through a microphone
+2. Converts speech into text using Google Speech Recognition API
+3. Displays the text in a GUI window
+4. Converts the same text into speech using pyttsx3
+
+---
+
+## ▶️ Procedure
+
+1. Install required libraries:
